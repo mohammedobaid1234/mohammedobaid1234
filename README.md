@@ -33,6 +33,26 @@ Hi, I'm [Mohammed Obaid], a web developer from Palestine. I'm a creative problem
 </p>
 
 <hr>
+
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammedobaid1234&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
+
+</br>
+
+<a href="[https://github.com/AbhishekMaira10/COVID-19-Tracker](https://github.com/mohammedobaid1234/archive)" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=archive&theme=dracula" />
+</a>
+<a href="https://github.com/mohammedobaid1234/Metrical" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=Metrical&theme=dracula" />
+</a>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
+
 <!--
 **mohammedobaid1234/mohammedobaid1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

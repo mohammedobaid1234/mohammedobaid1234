@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 <h3 >Software Engineer(PHP/Laravel) </h3>
 Hi, I'm [Mohammed Obaid], a web developer from Palestine. I'm a creative problem solving enthusiast and a product guy, Playing VsCode 😎
 
@@ -50,6 +50,9 @@ Hi, I'm [Mohammed Obaid], a web developer from Palestine. I'm a creative problem
 </a>
 <a href="https://github.com/mohammedobaid1234/Metrical" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=Metrical&theme=dracula" />
+</a>
+<a href="https://github.com/mohammedobaid1234/parlmant" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=parlmant&theme=dracula" />
 </a>
 <div align="center">
 

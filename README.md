@@ -38,7 +38,7 @@ Hi, I'm [Mohammed Obaid], a web developer from Palestine. I'm a creative problem
 <hr>
 
 <summary>📈 My GitHub Stats</summary>
-++++
+
 <p align="center">
   <a href="https://github.com/gamussa?tab=repositories">
     <img
@@ -54,28 +54,28 @@ Hi, I'm [Mohammed Obaid], a web developer from Palestine. I'm a creative problem
     />
   </a>
 </p>
-++++
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammedobaid1234&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
 
 </br>
+<div>
 
+### Projects :
+</div>
 <a href="[https://github.com/AbhishekMaira10/COVID-19-Tracker](https://github.com/mohammedobaid1234/archive)" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=archive&theme=dracula" />
 </a>
-<br>
-<br>
+
 <a href="https://github.com/mohammedobaid1234/Metrical" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=Metrical&theme=dracula" />
 </a>
-<br>
-<br>
+
 <a href="https://github.com/mohammedobaid1234/parlmant" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedobaid1234&repo=parlmant&theme=dracula" />
 </a>
-<br>
-<br>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!

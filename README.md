@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 <h3 >Software Engineer(PHP/Laravel) </h3>
-Hi, I'm [Mohammed Obaid], a web developer from Palestine. I'm a creative problem solving enthusiast and a product guy, Playing VsCode 😎
+Hi, I'm [Mohammed Obaid], a web developer. I'm a creative problem solving enthusiast and a product guy, Playing VsCode 😎
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
